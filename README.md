@@ -1,4 +1,5 @@
 Sistema de Registro y Reconocimiento Facial con Python
+-López Ramírez Joel Angel
 
 Este proyecto implementa un sistema de registro facial utilizando Python, OpenCV, Dlib y la biblioteca Face Recognition. Permite registrar rostros de usuarios, almacenarlos codificados, y luego reconocerlos en tiempo real. Ideal como base para integraciones con Arduino o sistemas de autenticación.
 
